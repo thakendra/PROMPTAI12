@@ -6,7 +6,7 @@ const SubscribeForm = () => {
   const router = useRouter();
 
   const onButton3Click = useCallback(() => {
-    router.push("/page2");
+    router.push("");
   }, [router]);
 
   return (
