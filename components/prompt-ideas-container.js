@@ -8,25 +8,25 @@ const PromptIdeasContainer = () => {
         <CategoryContainer
           promptIdeasCount="01"
           promptIdeasText="Unlimited prompt ideas"
-          videoCountText="15 videos"
+          videoCountText=""
         />
         <img className={styles.separatorIcon} alt="" src="../separator.svg" />
         <CategoryContainer
           promptIdeasCount="02"
           promptIdeasText="Unlock Limitless Potential"
-          videoCountText="48 videos"
+          videoCountText=""
         />
         <img className={styles.separatorIcon} alt="" src="../separator.svg" />
         <CategoryContainer
           promptIdeasCount="03"
           promptIdeasText="Generate unique ideas "
-          videoCountText="48 videos"
+          videoCountText=""
         />
         <img className={styles.separatorIcon} alt="" src="../separator.svg" />
         <CategoryContainer
           promptIdeasCount="04"
           promptIdeasText="Unleash Creativity Today"
-          videoCountText="48 videos"
+          videoCountText=""
         />
         <img className={styles.separatorIcon} alt="" src="../separator.svg" />
         <div className={styles.category}>
