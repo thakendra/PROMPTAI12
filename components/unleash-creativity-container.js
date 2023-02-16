@@ -6,8 +6,9 @@ const UnleashCreativityContainer = () => {
   const router = useRouter();
 
   const onButtonClick = useCallback(() => {
-    router.push("/gifts");
-  }, [router]);
+    window.open(
+      "https://7659013318683.gumroad.com/l/MIDJOURNEYPROMPTGENERATOR"
+    );
 
   const onButton1Click = useCallback(() => {
     const anchor = document.querySelector(
