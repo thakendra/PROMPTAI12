@@ -17,11 +17,13 @@ const MainHeader = () => {
   }, []);
 
   const onPricingClick = useCallback(() => {
-    router.push("/page2");
-  }, [router]);
+   window.open(
+      "https://7659013318683.gumroad.com/l/MIDJOURNEYPROMPTGENERATOR"
+    );
+  }, []);
 
   const onLoginClick = useCallback(() => {
-    router.push("/page2");
+    router.push("");
   }, [router]);
 
   return (
