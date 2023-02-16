@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/generate-gifts": "pages/api/generate-gifts.js",
+  "/api/generate": "pages/api/generate.js",
+  "/gifts": "pages/gifts.html",
+  "/": "pages/index.html",
+  "/page2": "pages/page2.html",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
