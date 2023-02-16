@@ -6,17 +6,14 @@ const UnleashCreativityContainer = () => {
   const router = useRouter();
 
   const onButtonClick = useCallback(() => {
+   window.open(
+      "https://7659013318683.gumroad.com/l/MIDJOURNEYPROMPTGENERATOR"
+    );
+  }, []);
+  const onButton1Click = useCallback(() => {
     window.open(
       "https://7659013318683.gumroad.com/l/MIDJOURNEYPROMPTGENERATOR"
     );
-
-  const onButton1Click = useCallback(() => {
-    const anchor = document.querySelector(
-      "[data-scroll-to='popularExercisesSection']"
-    );
-    if (anchor) {
-      anchor.scrollIntoView({ block: "start", behavior: "smooth" });
-    }
   }, []);
 
   return (
@@ -45,7 +42,7 @@ const UnleashCreativityContainer = () => {
               <div className={styles.getStarted}>Get Started</div>
             </button>
             <button className={styles.button1} onClick={onButton1Click}>
-              <div className={styles.getStarted}>Preview</div>
+              <div className={styles.getStarted}>free trial</div>
             </button>
           </div>
         </div>
