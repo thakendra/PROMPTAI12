@@ -6,8 +6,10 @@ const AITrainersContainer = () => {
   const router = useRouter();
 
   const onButton2Click = useCallback(() => {
-    router.push("/gifts");
-  }, [router]);
+   window.open(
+      "https://7659013318683.gumroad.com/l/MIDJOURNEYPROMPTGENERATOR"
+    );
+  }, []);
 
   return (
     <div className={styles.trainers} data-scroll-to="trainers">
