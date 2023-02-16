@@ -44,7 +44,7 @@ const AITrainersContainer = () => {
               src="../group-142@2x.png"
             />
             <div className={styles.samanthaWilliam}>Samantha William</div>
-            <div className={styles.trainer}>Trainer</div>
+            <div className={styles.trainer}></div>
           </div>
           <div className={styles.trainer2}>
             <img
@@ -53,7 +53,7 @@ const AITrainersContainer = () => {
               src="../group-147@2x.png"
             />
             <div className={styles.samanthaWilliam}>Karen Summer</div>
-            <div className={styles.trainer}>Trainer</div>
+            <div className={styles.trainer}></div>
           </div>
           <div className={styles.trainer11}>
             <img
@@ -62,7 +62,7 @@ const AITrainersContainer = () => {
               src="../group-146@2x.png"
             />
             <div className={styles.jonathanWise}>Jonathan Wise</div>
-            <div className={styles.trainer4}>Trainer</div>
+            <div className={styles.trainer4}></div>
           </div>
         </div>
         <div className={styles.tablet}>
@@ -73,7 +73,7 @@ const AITrainersContainer = () => {
               src="../group-1471@2x.png"
             />
             <div className={styles.karenSummer1}>Karen Summer</div>
-            <div className={styles.trainer5}>Trainer</div>
+            <div className={styles.trainer5}></div>
           </div>
           <div className={styles.trainer21}>
             <img
@@ -91,7 +91,7 @@ const AITrainersContainer = () => {
               src="../group-1421@2x.png"
             />
             <div className={styles.samanthaWilliam1}>Samantha William</div>
-            <div className={styles.trainer7}>Trainer</div>
+            <div className={styles.trainer7}></div>
           </div>
         </div>
       </div>
