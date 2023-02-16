@@ -51,7 +51,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h3>Midjourney prompt idea generator 💡</h3>
+        <h3>Midjourney prompt generator 💡</h3>
 
         <form onSubmit={onSubmit}>
           <label>Give short description</label>
